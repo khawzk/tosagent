@@ -1,2 +1,16 @@
 # tosagent
-Tower of Saviors agent knowledge and Codex skill, using current official notices and Bahamut sources.
+
+神魔之塔（Tower of Saviors）的通用游戏知识与 Codex skill。
+
+## 内容
+
+- `skills/tos-general/`：覆盖游戏机制、卡片、敌技、组队、关卡与玩家建议。
+- `skills/tos-general/references/bahamut-sources.md`：巴哈姆特与官方来源入口，以及资料时效规则。
+
+## 资料时效
+
+回答当前游戏情况时，先查官方公告和近期巴哈资料。社区资料须在 90 天内更新，并匹配当前版本、地区和仍开放的关卡或活动；过期资料只用于历史问题或寻找线索。
+
+## 范围
+
+本仓库提供研究和攻略建议，不代领登入奖励、不自动操作游戏，也不读取或修改游戏客户端资料。
